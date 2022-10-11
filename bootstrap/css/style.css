@@ -1,0 +1,25 @@
+#hero{
+    background: url(/img/smin.jpg);
+    background-position: center;
+    background-size: cover;
+    padding: 45px;
+}
+.title h1 {
+    font-size: 70px;
+}
+.btn-group{
+    background: white; 
+}
+.btn-group:hover{
+    background: #e6e6e6;
+}
+.text-one{
+    color:#adc2c1 ;
+}
+.text-one:hover{
+    color: #e6e6e6;
+}
+.hero-footer{
+    background: #333;
+    padding: 35px;
+}
